@@ -52,4 +52,4 @@ Deux horodatages indépendants couvrent aussi la tête du registre :
 ## Ce que ce dépôt ne contient pas
 
 Pas de prix, pas de conseil, aucune donnée personnelle : seulement des empreintes. Trackyzz ne vous dit pas quoi
-acheter. Il vous prouve ce qui est vrai.
+acheter. Il prouve que ses relevés n'ont pas été modifiés après coup.
